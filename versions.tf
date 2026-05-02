@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "YOUR_TFC_ORG"
+    organization = "ACME0"
 
     workspaces {
       name = "tfc-demo"
