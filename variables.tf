@@ -3,7 +3,7 @@ variable "aws_region" {
 }
 
 variable "project_name" {
-  default = "tfc-demo"
+  default = "tfc-demo-1"
 }
 
 variable "key_name" {
